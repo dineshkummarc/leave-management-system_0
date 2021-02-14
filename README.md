@@ -1,4 +1,4 @@
-# leave-management-system_0
+# Leave Management System
 
 Username: admin
 Password: admin123
